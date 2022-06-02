@@ -10934,3 +10934,7 @@ body.category-1 .travell-cover {
 	background: transparent;
 	color: #b52626;
 }
+@font-face {
+	src: url(https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Quicksand:wght@700&display=swap);
+	font-family: "Open Sans";
+}
